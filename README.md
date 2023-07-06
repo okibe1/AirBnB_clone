@@ -9,3 +9,5 @@ pycodestyle --first optparse.py
 - python3 -m unittest discover tests
 ## Uninterractive mode
 - echo "python3 -m unittest discover tests" | bash
+
+
